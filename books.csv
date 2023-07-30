@@ -1,0 +1,13 @@
+ISBN,Book_title,Category,Rental_Price,Status,Author,Publisher
+1,"The Red Signal: An Agatha Christie Short Story",short_story,100,yes,"Agatha Christie","HarperCollins UK"
+2,"Crossroads of Twilight: Book Ten of 'The Wheel of Time'","fantasy novel",200,no,"Robert Jordan","Tor Fantasy"
+3,"My Little Pony: Friendship is Magic #83",series,300,yes,"Thom Zahler","IDW Publishing"
+4,"Ask A Footballer",Nonfiction,200,no,"James Milne","Hachette UK"
+5,"Ultimate Spider-Man Vol. 11: Carnage","Science fiction",100,no,"Brian Michael Bendis","Marvel Entertainment"
+6,Book1,category1,100,yes,Author1,Publisher1
+7,Book2,category2,150,yes,Author2,Publisher2
+8,Book3,category3,200,yes,Author3,Publisher1
+9,Book4,category1,100,yes,Author3,Publisher2
+10,Book5,category2,150,yes,Author2,Publisher1
+11,Book6,category3,200,yes,Author1,Publisher2
+12,Book7,category1,150,yes,Author3,Publisher1
