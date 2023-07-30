@@ -1,0 +1,9 @@
+Issue_Id,Issued_cust,Issued_book_name,Issue_date,Isbn_book
+1,1,"The Red Signal: An Agatha Christie Short Story","2023-07-19 11:43:44",1
+2,1,"Crossroads of Twilight: Book Ten of 'The Wheel of Time'","2023-07-19 11:44:21",2
+3,2,"My Little Pony: Friendship is Magic #83","2023-07-19 11:44:54",3
+4,3,"Ask A Footballer","2023-07-19 11:45:07",4
+5,3,"Ultimate Spider-Man Vol. 11: Carnage","2023-07-19 11:45:16",5
+6,4,Book1,"2023-07-19 11:45:31",6
+7,4,Book2,"2023-07-19 11:45:39",7
+8,4,Book3,"2023-07-19 11:45:48",8
